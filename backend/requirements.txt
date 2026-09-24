@@ -1,0 +1,44 @@
+# Web Framework
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+
+# Database
+sqlalchemy==2.0.30
+aiosqlite==0.20.0
+alembic==1.13.1
+asyncpg==0.29.0
+
+# Pydantic & validation
+pydantic==2.7.1
+pydantic-settings==2.3.0
+email-validator==2.1.1
+
+# Auth
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+python-multipart==0.0.9
+
+# NLP
+spacy==3.7.5
+nltk==3.8.1
+vaderSentiment==3.3.2
+
+# ML
+scikit-learn==1.5.0
+numpy==1.26.4
+joblib==1.4.2
+
+# Generative AI
+google-generativeai==0.7.2
+
+# Utilities
+python-dotenv==1.0.1
+httpx==0.27.0
+python-dateutil==2.9.0
+regex==2024.5.15
+
+# Dev / testing
+pytest==8.2.2
+pytest-asyncio==0.23.7
+httpx==0.27.0

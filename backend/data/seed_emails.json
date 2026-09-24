@@ -1,0 +1,114 @@
+[
+  {
+    "sender_name": "HR Team — TechCorp Solutions",
+    "sender_email": "hr@techcorp-solutions.com",
+    "subject": "Interview Invitation — Data Analyst Position",
+    "body": "Dear Candidate,\n\nWe are pleased to invite you for an interview for the Data Analyst position at TechCorp Solutions.\n\nYour interview is scheduled for tomorrow at 10:00 AM at our Bangalore office (4th Floor, Tech Park, MG Road).\n\nPlease confirm your availability by replying to this email. Bring a copy of your resume and a government-issued ID.\n\nWe look forward to meeting you.\n\nBest regards,\nPriya Sharma\nHR Manager, TechCorp Solutions",
+    "days_ago": 0
+  },
+  {
+    "sender_name": "Amazon Order Updates",
+    "sender_email": "order-update@amazon.in",
+    "subject": "Your Order #AMZ-847291 has been shipped",
+    "body": "Hello,\n\nGreat news! Your order has been shipped and is on its way.\n\nOrder Details:\nOrder ID: #AMZ-847291\nItem: Sony WH-1000XM5 Wireless Headphones\nTracking Number: AMZN-TRK-29847321\nEstimated Delivery: 2 business days\n\nYou can track your package using the link below.\n\nThank you for shopping with Amazon!\n\nAmazon Customer Service",
+    "days_ago": 1
+  },
+  {
+    "sender_name": "HDFC Bank",
+    "sender_email": "alerts@hdfcbank.com",
+    "subject": "URGENT: Suspicious Activity Detected on Your Account",
+    "body": "Dear Customer,\n\nWe have detected suspicious login activity on your HDFC Bank account from an unrecognized device in Chennai.\n\nFor your security, your account has been temporarily restricted.\n\nIf this was you, please verify your identity by clicking the secure link below within 24 hours to restore access.\n\nIf this was NOT you, please call our 24x7 helpline immediately: 1800-XXX-XXXX\n\nDo not share your OTP or password with anyone.\n\nRegards,\nHDFC Bank Security Team",
+    "days_ago": 0
+  },
+  {
+    "sender_name": "Prof. Rajesh Kumar",
+    "sender_email": "r.kumar@university.edu",
+    "subject": "Assignment Submission Deadline — Database Management",
+    "body": "Dear Students,\n\nThis is a reminder that the assignment for Database Management Systems (Unit 4 — Normalization) is due this Friday at 11:59 PM.\n\nPlease submit your work through the student portal. Late submissions will not be accepted.\n\nThe assignment should cover:\n1. First Normal Form (1NF)\n2. Second Normal Form (2NF)\n3. Third Normal Form (3NF)\nWith practical examples for each.\n\nIf you have any questions, please email me before Thursday.\n\nRegards,\nProf. Rajesh Kumar\nDepartment of Computer Science",
+    "days_ago": 1
+  },
+  {
+    "sender_name": "IndiGo Airlines",
+    "sender_email": "noreply@goindigo.in",
+    "subject": "Booking Confirmed — Flight 6E-847 Mumbai to Delhi",
+    "body": "Dear Passenger,\n\nYour flight booking is confirmed.\n\nFlight Details:\nFlight: IndiGo 6E-847\nRoute: Mumbai (BOM) → Delhi (DEL)\nDate: November 15, 2026\nDeparture: 07:30 AM\nArrival: 09:45 AM\nPNR: INDG847291\nSeat: 14C (Window)\nPassenger: Rahul Sharma\n\nOnline check-in opens 48 hours before departure.\n\nHave a pleasant journey!\n\nIndiGo Customer Team",
+    "days_ago": 3
+  },
+  {
+    "sender_name": "Recruitment Team — GlobalTech",
+    "sender_email": "recruitment@globaltech.io",
+    "subject": "Job Application Update — Software Engineer Position",
+    "body": "Dear Applicant,\n\nThank you for your interest in the Software Engineer position at GlobalTech.\n\nAfter careful consideration of your application, we regret to inform you that you have not been selected for further rounds at this time.\n\nWe were impressed by your background and encourage you to apply for future positions that match your profile.\n\nWe appreciate the time you invested and wish you the best in your career journey.\n\nBest regards,\nRecruitment Team\nGlobalTech Inc.",
+    "days_ago": 2
+  },
+  {
+    "sender_name": "Dr. Priya Nair",
+    "sender_email": "appointments@cityhospital.com",
+    "subject": "Appointment Confirmation — Dr. Priya Nair, November 12",
+    "body": "Dear Patient,\n\nYour appointment has been confirmed.\n\nAppointment Details:\nDoctor: Dr. Priya Nair (Cardiologist)\nDate: November 12, 2026\nTime: 11:00 AM\nLocation: City Hospital, Consultation Room 204, 2nd Floor\n\nPlease arrive 10 minutes early and bring:\n- Previous medical reports\n- List of current medications\n- Government-issued photo ID\n\nTo reschedule, please call: 022-XXXX-XXXX\n\nCity Hospital",
+    "days_ago": 4
+  },
+  {
+    "sender_name": "Flipkart Customer Service",
+    "sender_email": "cs@flipkart.com",
+    "subject": "Refund Processed — Order #FLK-28476",
+    "body": "Dear Customer,\n\nWe have processed your refund for the returned item.\n\nRefund Details:\nOrder ID: #FLK-28476\nItem: Samsung Galaxy Buds\nRefund Amount: Rs. 2,499\nMethod: Original payment method (Credit Card ending 4829)\nExpected Credit: 3-5 business days\n\nIf you do not receive the refund within 7 days, please contact our support team.\n\nThank you for your patience.\n\nFlipkart Customer Service",
+    "days_ago": 2
+  },
+  {
+    "sender_name": "Sarah & Michael",
+    "sender_email": "wedding@sarahandmichael.com",
+    "subject": "Wedding Invitation — Sarah & Michael, December 5th",
+    "body": "Dear Friend,\n\nWith great joy, we invite you to celebrate our wedding!\n\nSarah Patel & Michael D'Souza\nRequest the pleasure of your company at their marriage ceremony\n\nDate: Saturday, December 5, 2026\nTime: 7:00 PM onwards\nVenue: The Royal Ballroom, Grand Hotel, Mumbai\n\nKindly RSVP by November 20th.\nDinner and celebrations to follow the ceremony.\n\nWe look forward to sharing this special day with you!\n\nWith love,\nSarah & Michael",
+    "days_ago": 5
+  },
+  {
+    "sender_name": "TechVision Conference 2026",
+    "sender_email": "events@techvision.in",
+    "subject": "Registration Confirmed — Annual Tech Conference 2026",
+    "body": "Dear Attendee,\n\nYour registration for TechVision Annual Tech Conference 2026 is confirmed!\n\nEvent Details:\nDates: November 25–27, 2026\nVenue: Bombay Convention Centre, Mumbai\nYour Registration ID: TVCONF-2026-8472\n\nSchedule highlights:\n- Day 1: AI & Machine Learning Summit\n- Day 2: Cloud & DevOps Workshop\n- Day 3: Startup Pitches & Networking\n\nPlease carry this confirmation email and a valid photo ID for entry.\n\nSee you there!\n\nTechVision Events Team",
+    "days_ago": 7
+  },
+  {
+    "sender_name": "Amazon Deals",
+    "sender_email": "deals@amazon.in",
+    "subject": "FLASH SALE: Up to 70% Off — Ends Tonight!",
+    "body": "Don't miss our biggest sale of the year!\n\nFLASH SALE — Ending Tonight at Midnight\n\n70% off on Electronics\n60% off on Fashion\n50% off on Home & Kitchen\n40% off on Books\n\nTop deals:\n- Apple AirPods Pro: Rs. 15,999 (Was Rs. 26,999)\n- Kindle Paperwhite: Rs. 7,999 (Was Rs. 13,999)\n- Nike Running Shoes: Rs. 2,999 (Was Rs. 7,999)\n\nShop Now before deals expire!\n\nTerms and conditions apply. Prices subject to change.",
+    "days_ago": 0
+  },
+  {
+    "sender_name": "Sunrise Global University",
+    "sender_email": "admissions@sgu.edu",
+    "subject": "Admission Confirmed — MCA Program 2026-28",
+    "body": "Dear Applicant,\n\nCongratulations!\n\nWe are delighted to inform you that your admission to the Master of Computer Applications (MCA) program for the academic year 2026-28 has been confirmed.\n\nImportant Dates:\n- Fee Payment Deadline: September 1, 2026\n- Orientation Day: September 5, 2026\n- Classes Begin: September 10, 2026\n\nFee Details:\nFirst Semester Fee: Rs. 45,000\nPayment must be made through the student portal.\n\nPlease complete the fee payment to secure your seat.\n\nWe look forward to welcoming you!\n\nAdmissions Office\nSunrise Global University",
+    "days_ago": 10
+  },
+  {
+    "sender_name": "Support Team — ShopEase",
+    "sender_email": "support@shopease.com",
+    "subject": "Support Ticket #TKT-48291 Created",
+    "body": "Dear Customer,\n\nThank you for contacting ShopEase Support.\n\nYour support ticket has been created successfully.\n\nTicket Details:\nTicket ID: #TKT-48291\nIssue: Item not received despite delivery confirmation\nPriority: High\nStatus: Under Investigation\n\nOur team will investigate and respond within 24 hours.\n\nFor urgent issues, please call: 1800-XXX-XXXX (24x7)\n\nShopEase Customer Support",
+    "days_ago": 1
+  },
+  {
+    "sender_name": "Income Tax Department",
+    "sender_email": "notices@incometax.gov.in",
+    "subject": "Notice: Pending Income Tax Return — FY 2025-26",
+    "body": "Dear Taxpayer,\n\nThis is an official notice from the Income Tax Department of India.\n\nOur records indicate that your Income Tax Return (ITR) for Financial Year 2025-26 has not been filed.\n\nPAN: ABCPX1234Y\nAssessment Year: 2026-27\nFiling Deadline: July 31, 2026 (Extended)\n\nFailure to file your return may result in penalties under Section 234F of the Income Tax Act.\n\nPlease file your return immediately through the e-filing portal.\n\nThis is a system-generated notice. Do not reply to this email.\n\nIncome Tax Department, Government of India",
+    "days_ago": 3
+  },
+  {
+    "sender_name": "GlobalTech HR",
+    "sender_email": "hr@globaltech.io",
+    "subject": "Offer Letter — Senior Software Engineer Position",
+    "body": "Dear Candidate,\n\nWe are delighted to extend this formal offer of employment to you.\n\nPosition: Senior Software Engineer\nDepartment: Platform Engineering\nLocation: Hyderabad (Hybrid — 3 days in office)\nStarting Date: December 1, 2026\n\nCompensation:\nAnnual CTC: Rs. 18,00,000\nFixed Salary: Rs. 14,40,000 per annum\nVariable Pay: Rs. 1,80,000 per annum\nOther Benefits: Rs. 1,80,000 per annum\n\nPlease sign and return the attached offer letter by November 28, 2026.\n\nWe are excited to have you join the GlobalTech family!\n\nBest regards,\nAnjali Mehta\nHead of HR, GlobalTech",
+    "days_ago": 6
+  },
+  {
+    "sender_name": "SpiceJet Airlines",
+    "sender_email": "alerts@spicejet.com",
+    "subject": "Flight Delay — SG-447 Bangalore to Hyderabad",
+    "body": "Dear Valued Passenger,\n\nWe regret to inform you of a delay to your upcoming flight.\n\nFlight: SpiceJet SG-447\nRoute: Bangalore (BLR) → Hyderabad (HYD)\nOriginal Departure: 14:30\nRevised Departure: 17:00\nReason: Operational requirements\n\nWe sincerely apologize for the inconvenience caused.\n\nAs per our policy, you may:\n1. Travel on the delayed flight at no extra cost\n2. Rebook on the next available flight free of charge\n3. Request a full refund\n\nPlease contact our support team for rebooking assistance.\n\nSpiceJet Customer Care",
+    "days_ago": 0
+  }
+]
